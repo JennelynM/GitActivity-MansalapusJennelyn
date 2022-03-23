@@ -1,3 +1,6 @@
 print("Jennelyn Magalang Mansalapus")
 print("Mahunig, Gasan, Marinduque")
 print("October 12, 2001")
+print("Marinduque State College")
+print("Bachelor of Science in Information Technology")
+print("Second Year, Section E")
